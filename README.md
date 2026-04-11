@@ -1,4 +1,10 @@
-# Spectacles Samples
+# Spectacles Samples [DEPRECATED]
+
+😎 
+We'll see ya at https://github.com/orgs/specs-devs 
+if you are looking for further support 
+https://www.reddit.com/r/Spectacles/
+
 
 A comprehensive collection of templates and examples for building Lens experiences on Spectacles.
 
